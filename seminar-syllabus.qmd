@@ -1,0 +1,57 @@
+# Faculty Seminar on the Foundations of Data Science
+
+Term: Fall 2026\
+Schedule: Seven bi-weekly meetings, times TBD.\
+Location: In-person, location TBD.
+
+## Description
+
+An informal seminar among faculty in the School of Data Science on the foundations of data science. The objective of the seminar is to develop and codify a shared understanding of data science imagined as a unified discipline. The method for reaching this objective is a series of conversations focused on key texts in the theory and history of data science.
+
+## Schedule
+
+### Part I: Current Theoretical Takes
+
+#### Week 1. Data Science and Closure
+
+Bieling, et al., 2026, "Closure and the Foundations of Data Science."
+
+#### Week 2: The 4+1 Model Revisited
+
+Alvarado, 2023, "The 4+1 Model of Data Science."\
+<https://arxiv.org/abs/2311.07631>
+
+#### Week 3: Data Science and the Scientific Method
+
+Wright, Alonzi, et al., 2026, "The Importance of the Scientific Method in Machine Learning Education."\
+<https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1>
+
+### Part II: Historical Contexts, Professional Perspectives
+
+#### Week 4: Engineers
+
+Kirby, M.W. 2008. "Operations Research in World War Two: Its Role in RAF Fighter Command." *Military Operations Research*, 2008, Vol. 13, No. 1 (2008), pp. 65-72.\
+<https://www.jstor.org/stable/43941099>
+
+AFCRL, 1963, "VIII Data Sciences Laboratory," *Report on Research on the AFCRL*. \
+<https://catalog.hathitrust.org/Record/102893460>
+
+Peter Naur, 1966, “The Science of Datalogy.” *Communications of the ACM* 9 (7): 485.\
+<https://doi.org/10.1145/365719.366510>.
+
+#### Week 5: Scientists
+
+1.  CODATA
+2.  Data Science Journal
+3.  NSF and JISC reports
+
+#### Week 6: Statisticians
+
+Breiman, Leo. 2001. “Statistical Modeling: The Two Cultures.” Statistical Science 16 (3): 199–231.[\
+https://doi.org/10.1214/ss/1009213726](https://doi.org/10.1214/ss/1009213726).
+
+1.  Statisticians
+    1.  The Tokyo School
+    2.  Cleveland, et al.
+
+#### Week 7: Corporations
