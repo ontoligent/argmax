@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: ArgMax
+theme:
+  name: material
+
+repo_url: https://github.com/ontoligent/argmax
+edit_uri: edit/main/docs/
+
