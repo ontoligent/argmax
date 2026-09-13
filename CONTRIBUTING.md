@@ -1,30 +1,42 @@
 # Contributing to the Wiki
 
-Thank you for taking the time to contribute! This wiki is powered by [MkDocs](https://www.mkdocs.org/) and [GitHub Pages](https://pages.github.com/). We rely on Pull Requests (PRs) to update our documentation.
+Thank you for helping maintain and expand our collective knowledge base! We use **Zensical**, a high-performance static site generator, to build and maintain our documentation repository.
 
-## How to Contribute (Quickest Method)
+Please follow this step-by-step workflow to propose wiki updates.
 
-1. **Navigate to the page** you want to update on the live wiki.
-2. Click the **pencil icon** ("Edit this page") in the top right corner.
-3. If you do not have write access, GitHub will automatically create a fork of this repository for you.
-4. Make your edits directly in the browser using Markdown formatting.
-5. Scroll down, add a short title explaining your change, and click **Propose changes**.
-6. Click **Create pull request**.
+## 🛠️ Prerequisites & Installation
 
-## How to Add a New Page
+To preview your changes locally before submitting a Pull Request, you need Python installed on your machine.
 
-If you want to create a brand-new page from scratch rather than editing an existing one:
-
-1. Fork this repository and clone it to your local machine.
-2. Create a new `.md` file inside the `docs/` directory (e.g., `docs/getting-started.md`).
-3. Write your content using standard Markdown syntax.
-4. Open the `mkdocs.yml` file in the root directory.
-5. Add your new page to the `nav` section to make sure it appears in the navigation sidebar:
-   ```yaml
-   nav:
-     - Home: index.md
-     - Getting Started: getting-started.md
+1. **Install Zensical:** Open your terminal and run:
+   ```bash
+   pip install zensical
    ```
-6. Commit your changes, push to your fork, and submit a **Pull Request** to the `main` branch.
 
-Once a maintainer reviews and merges your pull request, a GitHub Action will automatically build and publish your updates to the live site.
+## 🔄 Step-by-Step Contribution Workflow
+
+### 1. Edit a Page
+* **Quick Web Edits:** If you are fixing a small typo, click the **"Edit this page"** button (pencil icon) on the top right of the live wiki site. GitHub will automatically guide you to create a fork and edit the Markdown directly in your browser.
+* **Complex Edits / New Pages:** Clone this repository locally and open the project directory in your code editor (such as Visual Studio Code, Cursor, or Zed).
+
+### 2. Run the Local Live Preview Server
+Before pushing your changes, always test how they look in the browser. 
+1. Open your terminal in the root repository directory.
+2. Run the Zensical development server:
+   ```bash
+   zensical serve
+   ```
+3. Open your browser and navigate to `http://127.0.0.1:8000`. The page will automatically refresh every time you save edits to your Markdown files.
+
+### 3. Check for Broken Links (Zensical Workspace Diagnostics)
+Zensical automatically tracks internal anchors and files across the entire workspace. Before opening a Pull Request, look at your terminal output or open your editor's **Workspace Diagnostics/Problems** panel (if using a supported editor). 
+* Zensical will alert you if you accidently link to a non-existent markdown file or use a broken cross-reference.
+* Fix any warnings or errors before pushing!
+
+### 4. Update the Navigation Map (If adding a new page)
+If you create a completely new `.md` file inside the `docs/` folder, you must add it to the custom navigation layout. Open `mkdocs.yml` (or `zensical.toml`) and append your page path under the `nav:` block.
+
+### 5. Submit Your Pull Request
+Commit your changes to a new branch and push it to GitHub. Open a **Pull Request** matching your branch against our `main` branch. 
+
+Once our automated GitHub Action workspace checks pass and a maintainer reviews the text, your PR will be merged, and the live wiki will automatically update within a couple of minutes!

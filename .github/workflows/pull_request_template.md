@@ -1,14 +1,14 @@
 ## Description
-<!-- Briefly describe the changes you are proposing to the wiki. What problem does this solve or what knowledge does this add? -->
+<!-- Briefly describe what knowledge you are adding, what problem you are solving, or what typo you are fixing in the wiki. -->
 
 ## Type of Change
-- [ ] 📝 Correcting a typo or formatting issue
-- [ ] 💡 Adding new information to an existing page
-- [ ] 🆕 Creating a brand new wiki page
-- [ ] 🗂️ Reorganizing navigation/folders
+- [ ] 📝 Corrected a typo or formatting issue
+- [ ] 💡 Added new information to an existing page
+- [ ] 🆕 Created a brand new wiki page
+- [ ] 🗂️ Reorganized navigation or folder structures
 
-## Checklist
-- [ ] **Previewed Changes:** I have checked the Markdown syntax and verified that links or images are not broken.
-- [ ] **Correct Folder Location:** If adding a new page, I placed the Markdown file inside the `docs/` folder (or a subfolder).
-- [ ] **Navigation Updated:** If adding a new page, I added it to the `nav` section in `mkdocs.yml` (if applicable).
-- [ ] **No Personal Info:** I ensured no passwords, private API keys, or sensitive personal data are included.
+## Zensical Verification Checklist
+- [ ] **Verified via `zensical serve`:** I viewed my changes locally in a web browser to check the final layout and formatting.
+- [ ] **Zero Workspace Diagnostics:** I verified that the Zensical engine threw no cross-link tracking errors or Markdown linter alerts in the terminal window.
+- [ ] **Proper File Case:** Any new files use all-lowercase naming conventions separated by hyphens (e.g., `my-new-guide.md`).
+- [ ] **Navigation Updated:** If adding a completely new document, I added its corresponding path under the `nav` block in `mkdocs.yml` / `zensical.toml`.
