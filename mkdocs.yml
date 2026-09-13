@@ -1,7 +1,19 @@
 site_name: ArgMax
 theme:
   name: material
+  features:
+    - navigation.tabs # Optional: Moves top-level sections into a horizontal top bar
+
 
 repo_url: https://github.com/ontoligent/argmax
 edit_uri: edit/main/docs/
 
+# Custom Navigation Map
+nav:
+  - Home: index.md
+  - Core Guides:
+    - Getting Started: guides/get-started.md
+    - Editing Rules: guides/rules.md
+  - Project Specs:
+    - Overview: specs/overview.md
+    - Architecture: specs/architecture.md
