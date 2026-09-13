@@ -11,9 +11,15 @@ edit_uri: edit/main/docs/
 # Custom Navigation Map
 nav:
   - Home: index.md
-  - Core Guides:
-    - Getting Started: guides/get-started.md
-    - Editing Rules: guides/rules.md
-  - Project Specs:
-    - Overview: specs/overview.md
-    - Architecture: specs/architecture.md
+  - Seminars:
+    - Foundations of Data Science: seminars/fds/index.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details # Required ONLY if you want collapsible (foldable) blocks
+  - pymdownx.superfences # Highly recommended to prevent parsing conflicts
+
+
+plugins:
+  - search
+  - mermaid2

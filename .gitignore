@@ -1,2 +1,12 @@
 .DS_Store
 .vscode
+Thumbs.db
+site/
+
+# Python caching and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
