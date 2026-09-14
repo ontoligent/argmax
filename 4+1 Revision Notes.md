@@ -6,3 +6,4 @@
 - Relationship to research.
 - Relationship to teaching.
 - The essential thing: Tensions and resolutions.
+- Socializing the culture.

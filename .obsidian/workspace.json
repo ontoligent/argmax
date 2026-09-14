@@ -6,7 +6,7 @@
       {
         "id": "adda7e7ab2e91085",
         "type": "tabs",
-        "dimension": 35.98971722365039,
+        "dimension": 44.2159383033419,
         "children": [
           {
             "id": "8155070d6920b0a8",
@@ -36,13 +36,12 @@
               "title": "Invitation to Join"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "9100d59043b4db9e",
         "type": "tabs",
-        "dimension": 64.01028277634961,
+        "dimension": 55.78406169665809,
         "children": [
           {
             "id": "37b6a51a7e2a0077",
@@ -297,11 +296,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5628c0137a5bc09d",
+  "active": "8155070d6920b0a8",
   "lastOpenFiles": [
-    "Points of Tension.md",
-    "4+1 Revision Notes.md",
     "Invitation to Join.md",
+    "4+1 Revision Notes.md",
+    "Points of Tension.md",
     "docs/seminars/fds/FDS Meeting 02.md",
     "docs/seminars/fds/syllabus.md",
     "FDS Meeting 03.md",
