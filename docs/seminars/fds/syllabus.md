@@ -1,6 +1,6 @@
 # Foundations of Data Science
 
-Fall 2026
+Fall 2026 -- Spring 2027
 
 ## Description
 
