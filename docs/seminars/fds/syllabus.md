@@ -16,8 +16,9 @@ At the conclusion of the seminar, participations will write a short summary of t
 
 ## Schedule 
 
-> [!NOTE]
+> [!NOTE] 
 > This schedule is subject to change.
+
 
 ### Part I: Current Theoretical Takes
 

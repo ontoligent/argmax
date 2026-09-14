@@ -16,7 +16,7 @@
               "state": {
                 "file": "docs/seminars/fds/syllabus.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "syllabus"
@@ -36,7 +36,8 @@
               "title": "Invitation to Join"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "9100d59043b4db9e",
@@ -296,13 +297,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "8155070d6920b0a8",
+  "active": "788483a39a9766b4",
   "lastOpenFiles": [
+    "docs/seminars/fds/syllabus.md",
     "Invitation to Join.md",
     "4+1 Revision Notes.md",
     "Points of Tension.md",
     "docs/seminars/fds/FDS Meeting 02.md",
-    "docs/seminars/fds/syllabus.md",
     "FDS Meeting 03.md",
     "docs/seminars/fds/FDS Meeting 01.md",
     "site/seminars/fds/FDS Meeting 02/index.html",
