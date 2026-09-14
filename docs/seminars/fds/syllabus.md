@@ -17,21 +17,23 @@ At the conclusion of the seminar, participations will write a short summary of t
 ## Schedule 
 
 !!! note "This schedule is subject to change."
-
 ### Part I: Current Theoretical Takes
 
 #### *Meeting 1\. Data Science and Closure*
 
-Cody, et al., 2026, "Closure and the Foundations of Data Science." Available on request from authors.
+[FDS Meeting 01](FDS%20Meeting%2001.md)
 
+Cody, et al., 2026, "Closure and the Foundations of Data Science." Available on request from authors.
 #### *Meeting 2: The 4+1 Model Revisited*
 
-Alvarado, 2023, "The 4+1 Model of Data Science." [https://arxiv.org/abs/2311.07631](https://arxiv.org/abs/2311.07631)
+[FDS Meeting 02](FDS%20Meeting%2002.md)
 
+Alvarado, 2023, "The 4+1 Model of Data Science." [https://arxiv.org/abs/2311.07631](https://arxiv.org/abs/2311.07631)
 #### Meeting 3: Data Science and the Scientific Method
 
-Wright, Alonzi, et al., 2026, "The Importance of the Scientific Method in Machine Learning Education." [https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1](https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1)
+[FDS Meeting 03](../../../FDS%20Meeting%2003.md)
 
+Wright, Alonzi, et al., 2026, "The Importance of the Scientific Method in Machine Learning Education." [https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1](https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1)
 ### Part II: Historical Contexts, Professional Perspectives
 
 #### *Meeting 4: Engineers*

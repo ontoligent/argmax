@@ -6,7 +6,7 @@
       {
         "id": "adda7e7ab2e91085",
         "type": "tabs",
-        "dimension": 39.686098654708516,
+        "dimension": 50.06426735218509,
         "children": [
           {
             "id": "8155070d6920b0a8",
@@ -27,7 +27,7 @@
       {
         "id": "9100d59043b4db9e",
         "type": "tabs",
-        "dimension": 60.31390134529148,
+        "dimension": 49.93573264781491,
         "children": [
           {
             "id": "37b6a51a7e2a0077",
@@ -70,9 +70,36 @@
               "icon": "lucide-file",
               "title": "FDS Meeting 02"
             }
+          },
+          {
+            "id": "407176d73a7dce82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Points of Tension.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Points of Tension"
+            }
+          },
+          {
+            "id": "83350fc7aa245a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FDS Meeting 03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FDS Meeting 03"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,11 +267,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "733dfb0f2c51c235",
+  "active": "37b6a51a7e2a0077",
   "lastOpenFiles": [
-    "docs/seminars/fds/syllabus.md",
     "docs/seminars/fds/FDS Meeting 02.md",
+    "Points of Tension.md",
+    "FDS Meeting 03.md",
     "docs/seminars/fds/FDS Meeting 01.md",
+    "docs/seminars/fds/syllabus.md",
     "site/seminars/fds/FDS Meeting 02/index.html",
     "site/seminars/fds/FDS Meeting 02",
     "site/seminars/fds/FDS Meeting 01/index.html",
