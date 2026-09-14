@@ -21,7 +21,7 @@ extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
 
 [project.theme]
-# variant = "classic"
+variant = "classic"
 # custom_dir = "overrides"
 # favicon = "images/favicon.png"
 language = "en"
