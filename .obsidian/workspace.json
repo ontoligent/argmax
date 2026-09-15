@@ -6,7 +6,7 @@
       {
         "id": "adda7e7ab2e91085",
         "type": "tabs",
-        "dimension": 44.2159383033419,
+        "dimension": 63.10025273799494,
         "children": [
           {
             "id": "8155070d6920b0a8",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Invitation to Join.md",
+                "file": "docs/seminars/Foundations of Data Science/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Invitation to Join"
+              "title": "index"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "9100d59043b4db9e",
         "type": "tabs",
-        "dimension": 55.78406169665809,
+        "dimension": 36.89974726200506,
         "children": [
           {
             "id": "37b6a51a7e2a0077",
@@ -106,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4+1 Revision Notes.md",
+                "file": "stage/4+1 Revision Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,8 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 218.61328125,
-    "collapsed": true
+    "width": 368.89453125
   },
   "right": {
     "id": "5d8e181b572ac897",
@@ -299,25 +298,30 @@
   },
   "active": "788483a39a9766b4",
   "lastOpenFiles": [
-    "docs/seminars/fds/syllabus.md",
-    "Invitation to Join.md",
-    "4+1 Revision Notes.md",
-    "Points of Tension.md",
-    "docs/seminars/fds/FDS Meeting 02.md",
-    "FDS Meeting 03.md",
-    "docs/seminars/fds/FDS Meeting 01.md",
-    "site/seminars/fds/FDS Meeting 02/index.html",
-    "site/seminars/fds/FDS Meeting 02",
-    "site/seminars/fds/FDS Meeting 01/index.html",
-    "site/seminars/fds/FDS Meeting 01",
-    "site/seminars/fds/Meeiting/index.html",
-    "site/seminars/fds/Meeiting",
-    "site/seminars/fds/Untitled/index.html",
-    "site/seminars/fds/Untitled",
-    "docs/seminars/fds/index.md",
-    "CONTRIBUTING.md",
+    "docs/guides/markdown.md",
     "docs/index.md",
-    "docs/markdown.md",
-    "docs/welcome-to-mkdocs.md"
+    "docs/guides/participation.md",
+    "site/guides/participation/index.html",
+    "site/guides/participation",
+    "site/guides/Untitled/index.html",
+    "site/guides/Untitled",
+    "docs/guides/CONTRIBUTING.md",
+    "docs/seminars/Foundations of Data Science/syllabus.md",
+    "stage/4+1 Revision Notes.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 02.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03.md",
+    "docs/seminars/Foundations of Data Science/index.md",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 03/index.html",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 02/index.html",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/index.html",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 03",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 02",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01",
+    "docs/notes/The Junto.md",
+    "trash/welcome-to-zensical.md",
+    "Untitled.md",
+    "Invitation to Join.md",
+    "Points of Tension.md"
   ]
 }

@@ -1,0 +1,7 @@
+I should have mentioned before, that, in the autumn of the preceding year, $1727$ I had form'd most of my ingenious acquaintance into a club of mutual improvement, which we called the Junto; we met on Friday evenings. The rules that I drew up required that every member, in his turn, should produce one or more queries on any point of Morals, Politics, or Natural Philosophy, to be discuss'd by the company; and once in three months produce and read an essay of his own writing, on any subject he pleased.
+
+Our debates were to be under the direction of a president, and to be conducted in the sincere spirit of inquiry after truth, without fondness for dispute or desire of victory; and to prevent warmth, all expressions of positiveness in opinions, or direct contradiction, were after some time made contraband, and prohibited under small pecuniary penalties.
+
+I even forbid myself, agreeably to the old laws of our Junto, the use of every word or expression in the language that imported a fix'd opinion, such as certainly, undoubtedly, etc., and I adopted, instead of them, I conceive, I apprehend, or I imagine a thing to be so or so; or it so appears to me at present.
+
+From _The Autobiography of Benjamin Franklin_. 

@@ -1,7 +1,7 @@
 [project]
 site_url = "https://ontoligent.github.io/argmax"
 site_name = "ArgMax"
-site_description = "Your project description"
+site_description = "Notes and Queries in Data Science"
 site_author = "Rafael C. Alvarado"
 
 copyright = "Copyright &copy; 2026 Rafael C. Alvarado"
@@ -10,18 +10,20 @@ repo_url = "https://github.com/ontoligent/argmax"
 repo_name = "ontoligent/argmax"
 edit_uri = "edit/main/docs/"
 
-nav = [
-  { "Home" = "index.md" }, # Added missing comma here
-  { "Foundations of Data Science" = [
-      { "Syllabus" = "seminars/fds/syllabus.md" }
-  ]}
-]
+# nav = [
+#   { "Home" = "index.md" }, 
+#   { "Guides" = "guides" },
+#   { "Foundations of Data Science" = [
+#       { "Syllabus" = "seminars/fds/syllabus.md" }
+#   ]}
+# ]
+# 
 
 extra_css = ["stylesheets/extra.css"]
 # extra_javascript = ["javascripts/extra.js"]
 
 [project.theme]
-variant = "classic"
+# variant = "classic" 
 # custom_dir = "overrides"
 # favicon = "images/favicon.png"
 language = "en"

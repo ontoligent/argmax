@@ -1,3 +1,3 @@
-# Welcome to ArgMax
+# Welcome
 
 This is where we are going to host all the content.

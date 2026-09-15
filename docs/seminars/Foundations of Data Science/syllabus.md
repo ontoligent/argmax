@@ -1,7 +1,7 @@
-# Foundations of Data Science
+# Syllabus
 
+**Foundation of Data Science**
 Fall 2026 and Spring 2027
-
 ## Description
 
 An informal seminar among faculty and other interested parties in the School of Data Science on the foundations of data science. The objective of the seminar is to develop and codify a shared understanding of data science imagined as a unified discipline.&nbsp;
@@ -16,25 +16,23 @@ At the conclusion of the seminar, participations will write a short summary of t
 
 ## Schedule 
 
-> [!NOTE] 
-> This schedule is subject to change.
-
+!!! note "This schedule is subject to change."
 
 ### Part I: Current Theoretical Takes
 
 #### *Meeting 1\. Data Science and Closure*
 
-[FDS Meeting 01](FDS%20Meeting%2001.md)
+[FDS Meeting 01](meetings/FDS%20Meeting%2001.md)
 
 Cody, et al., 2026, "Closure and the Foundations of Data Science." Available on request from authors.
 #### *Meeting 2: The 4+1 Model Revisited*
 
-[FDS Meeting 02](FDS%20Meeting%2002.md)
+[FDS Meeting 02](meetings/FDS%20Meeting%2002.md)
 
 Alvarado, 2023, "The 4+1 Model of Data Science." [https://arxiv.org/abs/2311.07631](https://arxiv.org/abs/2311.07631)
 #### Meeting 3: Data Science and the Scientific Method
 
-[FDS Meeting 03](../../../FDS%20Meeting%2003.md)
+[FDS Meeting 03](meetings/FDS%20Meeting%2003.md)
 
 Wright, Alonzi, et al., 2026, "The Importance of the Scientific Method in Machine Learning Education." [https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1](https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1)
 ### Part II: Historical Contexts, Professional Perspectives
