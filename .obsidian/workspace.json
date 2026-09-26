@@ -4,45 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "adda7e7ab2e91085",
-        "type": "tabs",
-        "dimension": 42.66561514195584,
-        "children": [
-          {
-            "id": "8155070d6920b0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/seminars/fds/syllabus.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "syllabus"
-            }
-          },
-          {
-            "id": "788483a39a9766b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "offline/names.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "names"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "9100d59043b4db9e",
         "type": "tabs",
-        "dimension": 57.33438485804416,
         "children": [
           {
             "id": "37b6a51a7e2a0077",
@@ -84,20 +47,6 @@
               },
               "icon": "lucide-file",
               "title": "FDS Meeting 02"
-            }
-          },
-          {
-            "id": "407176d73a7dce82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/guides/markdown.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "markdown"
             }
           },
           {
@@ -296,17 +245,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "788483a39a9766b4",
+  "active": "0f1f67a0559ba95b",
   "lastOpenFiles": [
     "docs/guides/markdown.md",
     "docs/guides/CONTRIBUTING.md",
-    "docs/guides/participation.md",
+    "docs/seminars/Foundations of Data Science/00_invitation.md",
+    "offline/notes/The Junto.md",
+    "offline/names.md",
+    "offline/participation.md",
     "Points of Tension.md",
     "site/assets/javascripts/bundle.8dcc8e9c.min.js",
-    "offline/names.md",
     "stage/4 + 1 Revision Notes.md",
     "offline",
-    "docs/seminars/Foundations of Data Science/00_invitation.md",
     "site/seminars/Foundations of Data Science/00_invitation/index.html",
     "site/seminars/Foundations of Data Science/00_invitation",
     "site/seminars/00_invitation/index.html",
@@ -321,7 +271,6 @@
     "docs/index.md",
     "site/guides/participation/index.html",
     "site/guides/participation",
-    "docs/notes/The Junto.md",
     "trash/welcome-to-zensical.md",
     "Invitation to Join.md"
   ]
