@@ -6,7 +6,7 @@
       {
         "id": "adda7e7ab2e91085",
         "type": "tabs",
-        "dimension": 63.10025273799494,
+        "dimension": 42.66561514195584,
         "children": [
           {
             "id": "8155070d6920b0a8",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/seminars/Foundations of Data Science/index.md",
+                "file": "offline/names.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "names"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "9100d59043b4db9e",
         "type": "tabs",
-        "dimension": 36.89974726200506,
+        "dimension": 57.33438485804416,
         "children": [
           {
             "id": "37b6a51a7e2a0077",
@@ -92,12 +92,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Points of Tension.md",
+                "file": "docs/guides/markdown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Points of Tension"
+              "title": "markdown"
             }
           },
           {
@@ -106,12 +106,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stage/4+1 Revision Notes.md",
+                "file": "stage/4 + 1 Revision Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4+1 Revision Notes"
+              "title": "4 + 1 Revision Notes"
             }
           },
           {
@@ -129,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.89453125
+    "width": 297.46875
   },
   "right": {
     "id": "5d8e181b572ac897",
@@ -299,29 +299,30 @@
   "active": "788483a39a9766b4",
   "lastOpenFiles": [
     "docs/guides/markdown.md",
-    "docs/index.md",
-    "docs/guides/participation.md",
-    "site/guides/participation/index.html",
-    "site/guides/participation",
-    "site/guides/Untitled/index.html",
-    "site/guides/Untitled",
     "docs/guides/CONTRIBUTING.md",
-    "docs/seminars/Foundations of Data Science/syllabus.md",
-    "stage/4+1 Revision Notes.md",
+    "docs/guides/participation.md",
+    "Points of Tension.md",
+    "site/assets/javascripts/bundle.8dcc8e9c.min.js",
+    "offline/names.md",
+    "stage/4 + 1 Revision Notes.md",
+    "offline",
+    "docs/seminars/Foundations of Data Science/00_invitation.md",
+    "site/seminars/Foundations of Data Science/00_invitation/index.html",
+    "site/seminars/Foundations of Data Science/00_invitation",
+    "site/seminars/00_invitation/index.html",
+    "site/seminars/00_invitation",
+    "site/seminars/Untitled/index.html",
+    "site/seminars/Untitled",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 02.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03.md",
+    "docs/seminars/Foundations of Data Science/syllabus.md",
     "docs/seminars/Foundations of Data Science/index.md",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 03/index.html",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 02/index.html",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/index.html",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 03",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 02",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01",
+    "docs/index.md",
+    "site/guides/participation/index.html",
+    "site/guides/participation",
     "docs/notes/The Junto.md",
     "trash/welcome-to-zensical.md",
-    "Untitled.md",
-    "Invitation to Join.md",
-    "Points of Tension.md"
+    "Invitation to Join.md"
   ]
 }
