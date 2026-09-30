@@ -1,5 +1,6 @@
+Markdown is the language used to create content on this site.
 
-# Markdown in 5min
+# Markdown in $5$ minutes
 
 ## Headers
 

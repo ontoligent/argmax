@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "offline/notes/Rethinking the Model.md",
+                "file": "offline/notes/Meeting 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rethinking the Model"
+              "title": "Meeting 1"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.9609375
+    "width": 241.66276168823242,
+    "collapsed": true
   },
   "right": {
     "id": "5d8e181b572ac897",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "offline/notes/Rethinking the Model.md",
+                "file": "offline/notes/Meeting 1.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "offline/notes/Rethinking the Model.md",
+                "file": "offline/notes/Meeting 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,12 +192,20 @@
   },
   "active": "733235a16026f58b",
   "lastOpenFiles": [
+    "docs/guides/How seminars work.md",
+    "offline/notes/Meeting 1.md",
+    "docs/guides/How to use markdown.md",
+    "docs/guides/How to contribute.md",
+    "site/guides/How to use markdown/index.html",
+    "site/guides/How to use markdown",
+    "site/guides/How to contribute/index.html",
+    "site/guides/How to contribute",
+    "offline/notes/Rethinking the Model.md",
     "offline/notes/The Junto.md",
     "offline/notes/Critique of Closure.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 02.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03.md",
-    "docs/guides/How seminars work.md",
     "site/guides/How seminars work/index.html",
     "site/guides/How seminars work",
     "site/guides/Untitled/index.html",
@@ -204,16 +213,9 @@
     "offline/participation.md",
     "site/seminars/Foundations of Data Science/meetings/FDS Meeting 03/FDS Meeting 03/index.html",
     "site/seminars/Foundations of Data Science/meetings/FDS Meeting 03/FDS Meeting 03",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 02/FDS Meeting 02/index.html",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 02/FDS Meeting 02",
-    "site/seminars/Foundations of Data Science/meetings/Closure_and_the_Foundations_of_Data_Science_Submission-5.pdf",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS Meeting 01/index.html",
-    "offline/notes/Rethinking the Model.md",
     "index.md",
     "docs/seminars/Foundations of Data Science/meetings/Untitled.md",
-    "docs/guides/CONTRIBUTING.md",
     "stage/00_invitation.md",
-    "docs/guides/markdown.md",
     "docs/seminars/Foundations of Data Science/00_invitation.md",
     "offline/names.md",
     "Points of Tension.md",
