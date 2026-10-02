@@ -8,7 +8,7 @@ An informal seminar among faculty and other interested parties in the School of 
 
 The method for reaching this objective is a series of conversations focused on key texts in the theory and history of data science. There will be no slide presentations, although slides may be used to support specific ideas. Sources and ideas will be kept in a collaborative wiki.
 
-Conversations will be held at bi-weekly meetings in the evening on Zoom, time and day TBA. Each meeting will focus on one or more readings organized around a specific topic. Someone will be designated to lead discussion. Leading a discussion entails guiding it but not dominating it.&nbsp;
+Conversations will be held at meetings in the evening on Zoom, time and day TBA. Each meeting will focus on one or more readings organized around a specific topic. Someone will be designated to lead discussion. Leading a discussion entails guiding it but not dominating it.&nbsp;
 
 The seminar will be divided into two units. In Unit 1 local authors of perspectives on data science will lead a discussion on their ideas. In Unit 2 we will review previous iterations of data science from both an historical and disciplinary perspective. Participants are expected to have read the materials before meeting.
 
