@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/guides/How seminars work.md",
+                "file": "docs/seminars/Foundations of Data Science/syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How seminars work"
+              "title": "syllabus"
             }
           },
           {
@@ -205,10 +205,14 @@
   },
   "active": "733235a16026f58b",
   "lastOpenFiles": [
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 02.md",
+    "docs/seminars/Foundations of Data Science/meetings/Closure_and_the_Foundations_of_Data_Science_Submission-5.pdf",
+    "docs/guides/How seminars work.md",
     "site/seminars/Foundations of Data Science/meetings/Safe Attachments Scan In Progress.eml",
     "offline/notes/Meeting 1.md",
     "offline/notes/Critique of Closure.md",
-    "docs/guides/How seminars work.md",
     "docs/guides/How to use markdown.md",
     "docs/guides/How to contribute.md",
     "site/guides/How to use markdown/index.html",
@@ -217,16 +221,11 @@
     "site/guides/How to contribute",
     "offline/notes/Rethinking the Model.md",
     "offline/notes/The Junto.md",
-    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
-    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 02.md",
-    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03.md",
     "site/guides/How seminars work/index.html",
     "site/guides/How seminars work",
     "site/guides/Untitled/index.html",
     "site/guides/Untitled",
     "offline/participation.md",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 03/FDS Meeting 03/index.html",
-    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 03/FDS Meeting 03",
     "index.md",
     "docs/seminars/Foundations of Data Science/meetings/Untitled.md",
     "stage/00_invitation.md",
