@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/seminars/Foundations of Data Science/syllabus.md",
+                "file": "docs/guides/How the seminars work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "syllabus"
+              "title": "How the seminars work"
             }
           },
           {
@@ -205,11 +205,14 @@
   },
   "active": "733235a16026f58b",
   "lastOpenFiles": [
+    "site/guides/How the seminars work/index.html",
+    "site/guides/How the seminars work",
+    "docs/seminars/Foundations of Data Science/syllabus.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 02.md",
     "docs/seminars/Foundations of Data Science/meetings/Closure_and_the_Foundations_of_Data_Science_Submission-5.pdf",
-    "docs/guides/How seminars work.md",
+    "docs/guides/How the seminars work.md",
     "site/seminars/Foundations of Data Science/meetings/Safe Attachments Scan In Progress.eml",
     "offline/notes/Meeting 1.md",
     "offline/notes/Critique of Closure.md",
@@ -224,7 +227,6 @@
     "site/guides/How seminars work/index.html",
     "site/guides/How seminars work",
     "site/guides/Untitled/index.html",
-    "site/guides/Untitled",
     "offline/participation.md",
     "index.md",
     "docs/seminars/Foundations of Data Science/meetings/Untitled.md",
@@ -233,7 +235,6 @@
     "offline/names.md",
     "Points of Tension.md",
     "stage/4 + 1 Revision Notes.md",
-    "docs/seminars/Foundations of Data Science/syllabus.md",
     "docs/index.md",
     "trash/welcome-to-zensical.md",
     "Invitation to Join.md"
