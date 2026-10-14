@@ -7,6 +7,7 @@ Time: 7:00PM + 1 to 1.5 hrs
 [Zoom Link](https://virginia.zoom.us/j/92406748587?pwd=6AzvnsJnoJAWA3l9oCSEcbAVCVo4wJ.1&from=addon)
 
 **Agenda**
+
 1. Welcome to the seminar!
 2. [How the seminars work](../../../guides/How%20the%20seminars%20work.md).
 3. Brief presentation.
