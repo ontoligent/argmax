@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.19074630737305
+    "width": 298.7526054382324
   },
   "right": {
     "id": "5d8e181b572ac897",
@@ -191,9 +191,9 @@
   },
   "active": "757ab67fa87b66cc",
   "lastOpenFiles": [
+    "docs/guides/How the seminars work.md",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
     "docs/seminars/Foundations of Data Science/syllabus.md",
-    "docs/guides/How the seminars work.md",
     "site/guides/How the seminars work/index.html",
     "site/guides/How the seminars work",
     "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03.md",
