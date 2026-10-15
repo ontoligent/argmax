@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
+                "file": "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 01 Agenda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FDS Meeting 01"
+              "title": "FDS01 01 Agenda"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.7526054382324
+    "width": 506.2623710632324
   },
   "right": {
     "id": "5d8e181b572ac897",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "offline/notes/Meeting 1.md",
+                "file": "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 01 Agenda.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 01 Agenda.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "offline/notes/Meeting 1.md",
+                "file": "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 01 Agenda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -170,8 +170,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -191,37 +190,40 @@
   },
   "active": "757ab67fa87b66cc",
   "lastOpenFiles": [
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 03 Transcript.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 01 Agenda.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 02 Chat.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Responses/Raf Alvarado.md",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Responses/Raf Alvarado/index.html",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Responses/Raf Alvarado",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Responses/Untitled/index.html",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Responses/Untitled",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Responses",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Responses",
+    "docs/guides/How to contribute.md",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 03 Transcript/index.html",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 03 Transcript",
+    "docs/guides/How to use markdown.md",
     "docs/guides/How the seminars work.md",
-    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01.md",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 02 Chat/index.html",
+    "site/seminars/Foundations of Data Science/meetings/FDS Meeting 01/FDS01 02 Chat",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 02/Agenda.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03/01 Agenda.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Chat.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01/Agenda.md",
+    "index.md",
+    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 01 Notes.md",
     "docs/seminars/Foundations of Data Science/syllabus.md",
-    "site/guides/How the seminars work/index.html",
-    "site/guides/How the seminars work",
-    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 03.md",
-    "docs/seminars/Foundations of Data Science/meetings/FDS Meeting 02.md",
-    "docs/seminars/Foundations of Data Science/meetings/Closure_and_the_Foundations_of_Data_Science_Submission-5.pdf",
-    "site/seminars/Foundations of Data Science/meetings/Safe Attachments Scan In Progress.eml",
     "offline/notes/Meeting 1.md",
     "offline/notes/Critique of Closure.md",
-    "docs/guides/How to use markdown.md",
-    "docs/guides/How to contribute.md",
-    "site/guides/How to use markdown/index.html",
-    "site/guides/How to use markdown",
-    "site/guides/How to contribute/index.html",
-    "site/guides/How to contribute",
     "offline/notes/Rethinking the Model.md",
     "offline/notes/The Junto.md",
-    "site/guides/How seminars work/index.html",
-    "site/guides/How seminars work",
     "offline/participation.md",
-    "index.md",
     "docs/seminars/Foundations of Data Science/meetings/Untitled.md",
     "stage/00_invitation.md",
     "docs/seminars/Foundations of Data Science/00_invitation.md",
     "offline/names.md",
     "Points of Tension.md",
-    "stage/4 + 1 Revision Notes.md",
-    "docs/index.md",
-    "trash/welcome-to-zensical.md",
-    "Invitation to Join.md"
+    "stage/4 + 1 Revision Notes.md"
   ]
 }

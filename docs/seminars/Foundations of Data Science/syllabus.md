@@ -22,17 +22,17 @@ At the conclusion of the seminar, participations will write a short summary of t
 
 #### *Meeting 1\. Data Science and Closure*
 
-[FDS Meeting 01](meetings/FDS%20Meeting%2001.md)
+[Agenda]meetings/FDS Meeting 01/Agenda.mdmd)
 
 Cody, et al., 2026, "Closure and the Foundations of Data Science." Available on request from authors.
 #### *Meeting 2: The 4+1 Model Revisited*
 
-[FDS Meeting 02](meetings/FDS%20Meeting%2002.md)
+[FDS Meeting 02](meetings/FDS Meeting 02/Agenda.md)
 
 Alvarado, 2023, "The 4+1 Model of Data Science." [https://arxiv.org/abs/2311.07631](https://arxiv.org/abs/2311.07631)
 #### Meeting 3: Data Science and the Scientific Method
 
-[FDS Meeting 03](meetings/FDS%20Meeting%2003.md)
+[FDS Meeting 03](meetings/FDS Meeting 03/01 Agenda.md)
 
 Wright, Alonzi, et al., 2026, "The Importance of the Scientific Method in Machine Learning Education." [https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1](https://hdsr.mitpress.mit.edu/pub/xxb041qb/release/1)
 ### Part II: Historical Contexts, Professional Perspectives

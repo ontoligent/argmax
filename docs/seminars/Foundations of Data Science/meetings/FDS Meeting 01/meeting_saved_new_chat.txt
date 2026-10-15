@@ -1,0 +1,69 @@
+2026-10-14 19:03:49 From Rafael Alvarado to Everyone:
+	https://ontoligent.github.io/argmax/
+	
+2026-10-14 19:38:53 From Peter Alonzi (UVA Data Science) to Rafael Alvarado (direct message):
+	Isn’t stat + CS just Conway from a decade ago? I’m thoroughly confused but do not want to derail
+	
+2026-10-14 19:39:14 From Rafael Alvarado to Peter Alonzi (UVA Data Science) (direct message):
+	The argument is that this is not enough …
+	
+2026-10-14 19:39:47 From Peter Alonzi (UVA Data Science) to Rafael Alvarado (direct message):
+	Hmm, ok, I thought that was well known and solved a decade ago. Got it. Thanks
+	
+2026-10-14 20:01:22 From Jeffrey Blume to Everyone:
+	Just an idea: Is Data Science the science of prediction? Seems rather narrow, but the discipline can be broad and encompass other ideas (like inference), when tied to prediction. 
+	
+	The majority of materials in our class is about prediction…even in data and society (as this is the implicit usage of the data).
+	
+2026-10-14 20:04:22 From Peter Beling to Everyone:
+	Wouldn’t statistics claim prediction? But maybe if we are willing to be accountable for the surrounding lifecycle and data engineering issues
+	
+2026-10-14 20:05:11 From Jeffrey Blume to Everyone:
+	No, not if they are honest. The vast majority of statistical methods and focus are about inference. PRediction is often seen as a consequence of good inference.
+	
+2026-10-14 20:06:27 From Peter Beling to Everyone:
+	Then I’m in, but again we have to accept accountabiility for understanding the closure issues.
+	
+2026-10-14 20:11:10 From Jeffrey Blume to Everyone:
+	chat says: Roughly 67 to 80 U.S. institutions offer dedicated bachelor's degrees or majors in zoology or animal biology (such as Colorado State University, Oregon State University, Michigan State University, and UC Davis).
+	
+2026-10-14 20:11:39 From Peter Alonzi (UVA Data Science) to Everyone:
+	I think that proves his point
+	
+2026-10-14 20:18:55 From Jordan Bryan to Everyone:
+	“Machine Learning” departments (like at CMU) are probably where prediction is the North Star principle. What makes us different from them? (Asking this as a real question, I don’t know that department well)
+	
+2026-10-14 20:20:30 From Jeffrey Blume to Everyone:
+	To  Jordan’s point: Good example. I would agree. What makes us different is all the other stuff we’ve been talk about…data as a generic concept, how data impact society, how do you build a system to collect and manage data etc. So I would agree, and I see us as broader than just machine learning. So maybe prediciton is too narrow.
+	
+2026-10-14 20:22:33 From Aaron Abrams to Everyone:
+	we certainly have different ways of generating new knowledge at sds
+	
+2026-10-14 20:22:34 From Jeffrey Blume to Everyone:
+	chat says: 
+	
+	In academia, “discipline” and “field” are closely related, but they are not interchangeable. The primary distinction is that a discipline refers to an established body of knowledge with its own intellectual foundations, methods, and institutional identity, whereas a field refers more broadly to an area of inquiry or practice.
+	
+2026-10-14 20:23:23 From Lily Koffman to Everyone:
+	to Jordan’s point: Maybe we’re different in that we’re not doing prediction conditional on the data (i.e. treating data as more or less fixed), but thinking about the whole ecosystem of data and prediction and their interaction? Maybe straw man a little because I don’t know ML at CMU that well
+	
+2026-10-14 20:24:12 From Tyler Cody to Everyone:
+	Replying to "to Jordan’s point: Maybe we’re different in that w...":
+	For example where does to the data come from the ML uses, in a rigorous sense not just “from a sensor”
+	
+2026-10-14 20:25:33 From Jeffrey Blume to Everyone:
+	Chat also says:
+	
+	A field can evolve into a discipline as it develops its own intellectual foundations, methods, educational programs, and scholarly identity.
+	
+	For example, statistics evolved from a collection of mathematical and applied methods into a distinct academic discipline, with its own theoretical foundations, research questions, and professional identity.
+	
+2026-10-14 20:26:35 From Peter Beling to Everyone:
+	Or computer science evolved
+	
+2026-10-14 20:32:55 From Aaron Abrams to Everyone:
+	thanks everybody, i regret missing the first 20 minutes!
+	
+2026-10-14 20:37:18 From Jeffrey Blume to Everyone:
+	Sign me up!
+	
